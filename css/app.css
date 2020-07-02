@@ -1,0 +1,277 @@
+.spform-pg1 .input-group-prepend .input-group-text{
+    width: 110px;
+}
+
+.spform-pg2 .input-group-prepend .input-group-text{
+    width: 142px;
+}
+
+.spform-pg3 .input-group-prepend .input-group-text{
+    width: 180px;
+}
+
+.form-entries{
+    height: 450px;
+    /* background-color: red;; */
+}
+
+.avater-uploader img{
+    height: 130px !important;
+}   
+
+.logo-uploader img{
+    height: 100px !important;
+}
+
+.business-photo-uploader img{
+    height: 160px !important;
+}
+
+#msform fieldset {
+    background: #e9ecef1c;
+}
+
+.widget-user-2 img {
+    border-radius: 0;
+}
+
+.widget-user-2 .widget-user-header.bg-warning{
+    background-color: whitesmoke !important;
+}
+
+.widget-user-2  .profile-view{
+    padding-bottom: 10px;
+}
+
+.widget-user-2 .widget-user-header.bg-warning.profile-view-header{
+    background-color: white !important;
+}
+
+.widget-user-2 .profile-view-header .profile-view-image{
+    width: 150px;
+}
+
+.widget-user-2 .widget-user-header{
+    padding-bottom: 2px !important;
+}
+
+.widget-user-2 .widget-user-header .profile-view-title{
+    padding-left: 20px;
+}
+
+.widget-user-2 .widget-user-header .profile-view-subtitle{
+    padding-left: 20px;
+}
+
+.widget-user-2 .nav-item .nav-link{
+    color: rgb(73, 73, 73);
+}
+
+.widget-user-2 .nav-item div.float-right{
+    color: black;
+    font-weight: bold;
+}
+
+.registration-links{
+    padding: 10px;
+}
+
+.link-wrapper{
+    background-color: #e9ecee52;
+    padding: 10px;
+}
+
+.pt-12{
+    padding-top: 12px;
+}
+
+.pt-7{
+    padding-top: 7px;
+}
+
+.pl-20{
+    padding-left: 20px;
+}
+
+.mt-18{
+    margin-top: 18px;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+.mt-5{
+    margin-top: 5px !important;
+}
+
+.mr-20{
+    margin-right: 20px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
+
+.db{
+    display: block;
+}
+
+.login-form-height{
+    height: 200px;
+}
+
+#user_last_checkin_table{
+    height: 378px;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.mb-0{
+    margin-bottom: 0px;
+}
+
+#attention_info_box{
+    background-color: #28a74540 ;
+}
+
+#attention_info_box_danger{
+    background-color:#ff00002e;
+}
+
+#user_last_checkins .badge-warning {
+    background-color: #ffc10714;
+}
+
+.page-link.active{
+    background-color: #007bff;
+    color: white;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+
+.page_spinner{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.page_spinner .spinner-grow.spinner-grow-sm{
+    font-size: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+
+.fix-gender-key-value-display .key-display{
+    min-width: 77px !important;
+}
+
+.update-password-form .card-body{
+    padding-top: 15px;
+}
+
+.notifications-div{
+    height: 580px;
+    overflow-y: auto;
+    padding: 20px;
+    background-color: #ffffff94;
+}
+
+#search_results_card .card-title{
+    width: 100%;
+}
+
+.floating-loader{
+    position: absolute;
+    width: 92.2%;
+}
+
+.tp-37{
+    top: 37px;
+}
+
+.service-checkin-visitor-form .card-body{
+    padding-bottom: 9px;
+}
+
+.admin-report-covid-form .card-body{
+    padding-bottom: 9px;
+}
+
+.admin-report-covid-form .card-footer{
+    padding-top: 10px;
+    /* background-color: white; */
+}
+
+.pt-10{
+    padding-top: 10px;
+}
+
+.business-profile-card-image{
+    width: 100%;
+    height: 210px;
+}
+
+#service-business-card .business-profile-card-buttons{
+    margin-top: 42px;
+}
+
+#service-business-card .user-profile-card-header div:nth-last-of-type(1) {
+    min-height: 82px;
+}
+
+#admin_user_last_checkins .card-body.p-0{
+    padding-top: 26px !important;
+}
+
+#cssmenu {
+    width: auto;
+    border-bottom: none;
+}
+
+#cssmenu > ul > li.active > a:after, #cssmenu > ul > li:hover > a:after, #cssmenu > ul > li > a:hover:after {
+    background: #047afb;
+}
+
+.navbar{
+    padding-bottom: 0px;
+    border-bottom: 3px solid #047afb;
+    padding-top: 13px;
+}
+
+.menu-company-name{
+    line-height: 2;
+    margin-right: 15px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+
+.demo-fill-div{
+    position: absolute;
+    padding: 20px;
+    text-align: right;
+    min-width: 100%;
+}
+
+#msform.inner-multi-form{
+    margin-top: 5px !important;
+}
+
+#msform.inner-multi-form #progressbar{
+    margin-bottom: 10px !important;
+}
+
+#msform.business-edit-form .form-entries{
+    height: 340px;
+}

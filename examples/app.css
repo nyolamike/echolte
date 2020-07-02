@@ -1,0 +1,16 @@
+
+
+/*
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    nyd --> make a tutorial or post about this guide and how it amused me
+*/
+.menu-container{
+    background-color: #040446;
+}
+
+.code-prev{
+    background-color: #ece7e7;
+    padding: 10px  !important;
+    max-height: 550px;
+    overflow-y: auto;
+}
